@@ -10,6 +10,7 @@ sources:
       - name: green_tripdata_external_2020
       - name: yellow_tripdata_external_2019
       - name: yellow_tripdata_external_2020
+      - name: fhv_tripdata_external_2019
 
 models:
   - name: stg_green_tripdata
@@ -206,3 +207,4 @@ models:
       - name: payment_type_description
         data_type: string
         description: ""
+
