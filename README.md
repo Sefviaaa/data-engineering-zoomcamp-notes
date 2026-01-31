@@ -1,3 +1,3 @@
 # data-engineering-zoomcamp-notes
 
-Notes and homework on Data Engineering Zoomcamp by DataTalksClub.
+Notes and homework attempt on Data Engineering Zoomcamp by DataTalksClub.
